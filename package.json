@@ -1,0 +1,24 @@
+{
+  "name": "gamble_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxou790/gambling_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxou790/gambling_project/issues"
+  },
+  "homepage": "https://github.com/maxou790/gambling_project#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "promt": "^0.0.0",
+    "sync": "^0.2.5"
+  }
+}
