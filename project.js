@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")();
+const prompt= require("prompt-syncgi")();
 
 const ROWS= 3;
 
