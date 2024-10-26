@@ -7,6 +7,14 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "Run detect-libc",
+            "runtimeExecutable": "detect-libc",
+            "cwd": "${workspaceFolder}",
+            "args": []
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "Launch Program",
             "skipFiles": [
                 "<node_internals>/**"
